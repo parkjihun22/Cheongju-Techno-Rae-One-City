@@ -71,7 +71,7 @@ const ComplexGuide1 = () => {
           name="keywords"
           content="브레인시티푸르지오, 브레인시티푸르지오 모델하우스, 평택브레인시티푸르지오"
         />
-        <link rel="canonical" href="https://www.a7lashare.com/SalesInfo/SubscriptionGuide" />
+        <link rel="canonical" href="https://www.itake.co.kr/SalesInfo/SubscriptionGuide" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -86,9 +86,9 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.a7lashare.com/Main1.png"
+          content="https://www.itake.co.kr/Main1.png"
         />
-        <meta property="og:url" content="https://www.a7lashare.com/SalesInfo/SubscriptionGuide" />
+        <meta property="og:url" content="https://www.itake.co.kr/SalesInfo/SubscriptionGuide" />
         <meta property="og:site_name" content="브레인시티 푸르지오" />
 
         {/* Twitter 카드 설정 */}
@@ -105,9 +105,9 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.a7lashare.com/Main1.png"
+          content="https://www.itake.co.kr/Main1.png"
         />
-        <meta name="twitter:url" content="https://www.a7lashare.com/SalesInfo/SubscriptionGuide" />
+        <meta name="twitter:url" content="https://www.itake.co.kr/SalesInfo/SubscriptionGuide" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -120,7 +120,7 @@ const ComplexGuide1 = () => {
 
                                             
                                     ",
-                                    "url": "https://www.a7lashare.com/SalesInfo/SubscriptionGuide"
+                                    "url": "https://www.itake.co.kr/SalesInfo/SubscriptionGuide"
                                 }
                                 `}
         </script>

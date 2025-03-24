@@ -59,22 +59,22 @@ const ComplexGuide3 = () => {
 		<meta name="robots" content="index, follow" />
 
 		{/* SEO 최적화를 위한 메타 태그 */}
-		<title>브레인시티 푸르지오 - 커뮤니티</title>
+		<title>청주 테크노 레이원시티 - 커뮤니티</title>
 		<meta
 		  name="description"
-		  content="평택브레인시티푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
+		  content="청주 테크노 레이원시티의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
 											"
 		/>
 		<meta
 		  name="keywords"
-		  content="브레인시티푸르지오, 브레인시티푸르지오 모델하우스, 평택브레인시티푸르지오"
+		  content="청주 테크노 레이원시티, 청주 테크노 레이원시티 모델하우스, 청주 테크노 레이원시티"
 		/>
-		<link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/community" />
+		<link rel="canonical" href="https://www.itake.co.kr/ComplexGuide/community" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
 		  property="og:title"
-		  content="브레인시티 푸르지오 - 커뮤니티"
+		  content="청주 테크노 레이원시티 - 커뮤니티"
 		/>
 		<meta
 		  property="og:description"
@@ -83,16 +83,16 @@ const ComplexGuide3 = () => {
 		/>
 		<meta
 		  property="og:image"
-		  content="https://www.a7lashare.com/Main1.png"
+		  content="https://www.itake.co.kr/Main1.png"
 		/>
-		<meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/community" />
-		<meta property="og:site_name" content="브레인시티 푸르지오" />
+		<meta property="og:url" content="https://www.itake.co.kr/ComplexGuide/community" />
+		<meta property="og:site_name" content="청주 테크노 레이원시티" />
 
 		{/* Twitter 카드 설정 */}
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta
 		  name="twitter:title"
-		  content="브레인시티 푸르지오 - 커뮤니티"
+		  content="청주 테크노 레이원시티 - 커뮤니티"
 		/>
 		<meta
 		  name="twitter:description"
@@ -101,9 +101,9 @@ const ComplexGuide3 = () => {
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://www.a7lashare.com/Main1.png"
+		  content="https://www.itake.co.kr/Main1.png"
 		/>
-		<meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/community" />
+		<meta name="twitter:url" content="https://www.itake.co.kr/ComplexGuide/community" />
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
 		<script type="application/ld+json">
@@ -111,11 +111,11 @@ const ComplexGuide3 = () => {
 								{
 									"@context": "https://schema.org",
 									"@type": "WebPage",
-									"name": "브레인시티 푸르지오 - 커뮤니티",
+									"name": "청주 테크노 레이원시티 - 커뮤니티",
 									"description": "첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											
 									",
-									"url": "https://www.a7lashare.com/ComplexGuide/community"
+									"url": "https://www.itake.co.kr/ComplexGuide/community"
 								}
 								`}
 		</script>
@@ -127,13 +127,13 @@ const ComplexGuide3 = () => {
 			<Bener title="단지안내" />
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>평택브레인시티푸르지오  - 커뮤니티</h1>
-			<p className={styles.screenReaderOnly}>평택브레인시티푸르지오의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.
+            <h1 className={styles.screenReaderOnly}>청주 테크노 레이원시티  - 커뮤니티</h1>
+			<p className={styles.screenReaderOnly}>청주 테크노 레이원시티의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.
 			</p>
 
 
 			<div className={styles.textBox}>
-				<div>브레인시티 푸르지오가 눈부신 가치 위에</div>
+				<div>청주 테크노 레이원시티가 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -141,7 +141,7 @@ const ComplexGuide3 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="브레인시티푸르지오 커뮤니티 안내 -image1"
+				alt="청주 테크노 레이원시티 커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

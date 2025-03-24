@@ -64,15 +64,15 @@ const FloorPlan4 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>평택 브레인시티의 눈부신 가치 위에</div>
-				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+				<div>청주의 눈부신 가치 위에</div>
+				<div>현대건설의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="브레인시티 푸르지오 84B 평면image"
+				alt="청주 테크노 레이원시티 84B 평면image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

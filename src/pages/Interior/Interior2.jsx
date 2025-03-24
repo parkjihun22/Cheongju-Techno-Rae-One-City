@@ -62,51 +62,51 @@ const Interior2 = () => {
 			<meta name="robots" content="index, follow" />
 	
 			{/* SEO 최적화를 위한 메타 태그 */}
-			<title>브레인시티 푸르지오 - 84A 인테리어</title>
+			<title>청주 테크노 레이원시티 - 84A 인테리어</title>
 			<meta
 			  name="description"
-			  content="84A 인테리어 페이지에서는 평택브레인시티푸르지오의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+			  content="84A 인테리어 페이지에서는 청주 테크노 레이원시티의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 												"
 			/>
 			<meta
 			  name="keywords"
-			  content="브레인시티푸르지오, 브레인시티푸르지오 모델하우스, 평택브레인시티푸르지오"
+			  content="청주 테크노 레이원시티, 청주 테크노 레이원시티 모델하우스, 청주 테크노 레이원시티"
 			/>
-			<link rel="canonical" href="https://www.a7lashare.com/Interior/84A" />
+			<link rel="canonical" href="https://www.itake.co.kr/Interior/84A" />
 	
 			{/* Open Graph - 소셜 미디어 공유 최적화 */}
 			<meta
 			  property="og:title"
-			  content="브레인시티 푸르지오 - 84A 84A 인테리어"
+			  content="청주 테크노 레이원시티 - 84A 84A 인테리어"
 			/>
 			<meta
 			  property="og:description"
-			  content="84A 인테리어 페이지에서는 평택브레인시티푸르지오의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+			  content="84A 인테리어 페이지에서는 청주 테크노 레이원시티의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 												"
 			/>
 			<meta
 			  property="og:image"
-			  content="https://www.a7lashare.com/Main1.png"
+			  content="https://www.itake.co.kr/Main1.png"
 			/>
-			<meta property="og:url" content="https://www.a7lashare.com/Interior/84A" />
-			<meta property="og:site_name" content="브레인시티 푸르지오" />
+			<meta property="og:url" content="https://www.itake.co.kr/Interior/84A" />
+			<meta property="og:site_name" content="청주 테크노 레이원시티" />
 	
 			{/* Twitter 카드 설정 */}
 			<meta name="twitter:card" content="summary_large_image" />
 			<meta
 			  name="twitter:title"
-			  content="브레인시티 푸르지오 - 84A 인테리어"
+			  content="청주 테크노 레이원시티 - 84A 인테리어"
 			/>
 			<meta
 			  name="twitter:description"
-			  content="84A 인테리어 페이지에서는 평택브레인시티푸르지오의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+			  content="84A 인테리어 페이지에서는 청주 테크노 레이원시티의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 												"
 			/>
 			<meta
 			  name="twitter:image"
-			  content="https://www.a7lashare.com/Main1.png"
+			  content="https://www.itake.co.kr/Main1.png"
 			/>
-			<meta name="twitter:url" content="https://www.a7lashare.com/Interior/84A" />
+			<meta name="twitter:url" content="https://www.itake.co.kr/Interior/84A" />
 	
 			{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
 			<script type="application/ld+json">
@@ -114,11 +114,11 @@ const Interior2 = () => {
 									{
 										"@context": "https://schema.org",
 										"@type": "WebPage",
-										"name": "브레인시티 푸르지오 - 84A 인테리어",
-										"description": "84A 인테리어 페이지에서는 평택브레인시티푸르지오의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+										"name": "청주 테크노 레이원시티 - 84A 인테리어",
+										"description": "84A 인테리어 페이지에서는 청주 테크노 레이원시티의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 												
 										",
-										"url": "https://www.a7lashare.com/Interior/84A"
+										"url": "https://www.itake.co.kr/Interior/84A"
 									}
 									`}
 			</script>
@@ -131,12 +131,12 @@ const Interior2 = () => {
 
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>평택브레인시티푸르지오 - 84A84A 인테리어</h1>
-			<p className={styles.screenReaderOnly}>84A타입의 84A 인테리어 페이지에서는 평택브레인시티푸르지오의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+            <h1 className={styles.screenReaderOnly}>청주 테크노 레이원시티 - 84A84A 인테리어</h1>
+			<p className={styles.screenReaderOnly}>84A타입의 84A 인테리어 페이지에서는 청주 테크노 레이원시티의 고급 84A 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 			</p>
 
 			<div className={styles.textBox}>
-				<div>대우건설 푸르지오, 브레인시티 눈부신 가치 위에</div>
+				<div>현대, 청주의 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -144,7 +144,7 @@ const Interior2 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="브레인시티푸르지오84A 인테리어84A-image2"
+				alt="청주 테크노 레이원시티84A 인테리어84A-image2"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

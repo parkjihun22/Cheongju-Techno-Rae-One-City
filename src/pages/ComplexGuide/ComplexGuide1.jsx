@@ -58,51 +58,51 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>브레인시티 푸르지오 - 단지배치도</title>
+        <title>청주 테크노 레이원시티 - 단지배치도</title>
         <meta
           name="description"
-          content="평택브레인시티푸르지오의 단지 배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다.
+          content="청주 테크노 레이원시티의 단지 배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다.
 											"
         />
         <meta
           name="keywords"
-          content="브레인시티푸르지오, 브레인시티푸르지오 모델하우스, 평택브레인시티푸르지오"
+          content="청주 테크노 레이원시티, 청주 레이원시티"
         />
-        <link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/intro" />
+        <link rel="canonical" href="https://www.itake.co.kr/ComplexGuide/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="브레인시티 푸르지오 - 단지배치도"
+          content="청주 테크노 레이원시티 - 단지배치도"
         />
         <meta
           property="og:description"
-          content="첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 현대건설의 설계와 다양한 입주 혜택이 돋보이는 현대건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											"
         />
         <meta
           property="og:image"
-          content="https://www.a7lashare.com/Main1.png"
+          content="https://www.itake.co.kr/Main1.png"
         />
-        <meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
-        <meta property="og:site_name" content="브레인시티 푸르지오" />
+        <meta property="og:url" content="https://www.itake.co.kr/ComplexGuide/intro" />
+        <meta property="og:site_name" content="청주 테크노 레이원시티" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="브레인시티 푸르지오 - 단지배치도"
+          content="청주 테크노 레이원시티 - 단지배치도"
         />
         <meta
           name="twitter:description"
-          content="첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 현대건설의 설계와 다양한 입주 혜택이 돋보이는 현대건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											"
         />
         <meta
           name="twitter:image"
-          content="https://www.a7lashare.com/Main1.png"
+          content="https://www.itake.co.kr/Main1.png"
         />
-        <meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
+        <meta name="twitter:url" content="https://www.itake.co.kr/ComplexGuide/intro" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -110,11 +110,11 @@ const ComplexGuide1 = () => {
 								{
 									"@context": "https://schema.org",
 									"@type": "WebPage",
-									"name": "브레인시티 푸르지오 - 단지배치도",
-									"description": "첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+									"name": "청주 테크노 레이원시티 - 단지배치도",
+									"description": "첨단 단지 현대건설의 설계와 다양한 입주 혜택이 돋보이는 현대건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											
 									",
-									"url": "https://www.a7lashare.com/ComplexGuide/intro"
+									"url": "https://www.itake.co.kr/ComplexGuide/intro"
 								}
 								`}
         </script>
@@ -126,10 +126,10 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        평택브레인시티푸르지오 - 단지배치도
+        청주 테크노 레이원시티 - 단지배치도
       </h1>
       <p className={styles.screenReaderOnly}>
-        단지 배치도 페이지는 평택브레인시티푸르지오의 전체 단지 구성도를
+        단지 배치도 페이지는 청주 테크노 레이원시티의 전체 단지 구성도를
         제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을
         시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수
         있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수
@@ -137,7 +137,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>브레인시티 푸르지오가 눈부신 가치 위에</div>
+        <div>청주 테크노 레이원시티가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -147,7 +147,7 @@ const ComplexGuide1 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="브레인시티푸르지오 단지배치도-image1"
+        alt="청주 테크노 레이원시티 단지배치도-image1"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 
