@@ -75,27 +75,27 @@ const BusinessGuide2 = () => {
         <title>청주 테크노 레이원시티 - 계약서류안내</title>
         <meta
           name="description"
-          content="첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						"
         />
         <meta
           name="keywords"
           content="청주 테크노 레이원시티, 청주 레이원시티"
         />
-        <link rel="canonical" href="https://www.itake.co.kr/BusinessGuide/documents" />
+        <link rel="canonical" href="https://eliasart.kr/BusinessGuide/documents" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="청주 테크노 레이원시티 - 계약서류안내" />
         <meta
           property="og:description"
-          content="첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						"
         />
         <meta
           property="og:image"
-          content="https://www.itake.co.kr/Main1.png"
+          content="https://eliasart.kr/Main1.png"
         />
-        <meta property="og:url" content="https://www.itake.co.kr/BusinessGuide/documents" />
+        <meta property="og:url" content="https://eliasart.kr/BusinessGuide/documents" />
         <meta property="og:site_name" content="청주 테크노 레이원시티" />
 
         {/* Twitter 카드 설정 */}
@@ -103,14 +103,14 @@ const BusinessGuide2 = () => {
         <meta name="twitter:title" content="청주 테크노 레이원시티 - 계약서류안내" />
         <meta
           name="twitter:description"
-          content="첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+          content="첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						"
         />
         <meta
           name="twitter:image"
-          content="https://www.itake.co.kr/Main1.png"
+          content="https://eliasart.kr/Main1.png"
         />
-        <meta name="twitter:url" content="https://www.itake.co.kr/BusinessGuide/documents" />
+        <meta name="twitter:url" content="https://eliasart.kr/BusinessGuide/documents" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -119,10 +119,10 @@ const BusinessGuide2 = () => {
 				"@context": "https://schema.org",
 				"@type": "WebPage",
 				"name": "청주 테크노 레이원시티 - 계약서류안내",
-				"description": "첨단 단지 푸르지오의 설계와 다양한 입주 혜택이 돋보이는 푸르지오의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
+				"description": "첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						
 				",
-				"url": "https://www.itake.co.kr/BusinessGuide/documents"
+				"url": "https://eliasart.kr/BusinessGuide/documents"
 			}
 			`}
         </script>

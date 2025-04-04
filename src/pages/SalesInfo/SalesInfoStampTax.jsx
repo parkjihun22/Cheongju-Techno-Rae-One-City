@@ -71,7 +71,7 @@ const ComplexGuide1 = () => {
           name="keywords"
           content="브레인시티푸르지오, 브레인시티푸르지오 모델하우스, 평택브레인시티푸르지오"
         />
-        <link rel="canonical" href="https://www.itake.co.kr/SalesInfo/stampTax" />
+        <link rel="canonical" href="https://eliasart.kr/SalesInfo/stampTax" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -86,9 +86,9 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.itake.co.kr/Main1.png"
+          content="https://eliasart.kr/Main1.png"
         />
-        <meta property="og:url" content="https://www.itake.co.kr/SalesInfo/stampTax" />
+        <meta property="og:url" content="https://eliasart.kr/SalesInfo/stampTax" />
         <meta property="og:site_name" content="브레인시티 푸르지오" />
 
         {/* Twitter 카드 설정 */}
@@ -105,9 +105,9 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.itake.co.kr/Main1.png"
+          content="https://eliasart.kr/Main1.png"
         />
-        <meta name="twitter:url" content="https://www.itake.co.kr/SalesInfo/stampTax" />
+        <meta name="twitter:url" content="https://eliasart.kr/SalesInfo/stampTax" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -120,7 +120,7 @@ const ComplexGuide1 = () => {
 
                                             
                                     ",
-                                    "url": "hhttps://www.itake.co.kr/SalesInfo/stampTax"
+                                    "url": "hhttps://eliasart.kr/SalesInfo/stampTax"
                                 }
                                 `}
         </script>

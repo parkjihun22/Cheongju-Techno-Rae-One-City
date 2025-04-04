@@ -21,11 +21,11 @@ import section2Image6 from "../../assets/LocationEnvironment/LocationEnvironment
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 
 const LocationSection = [
-	{ img: section2Image1, titleText: "확정된 개발호재로<br />평택을 더 새롭게 살수록 높아지는 미래가치", contentText: "삼성전자 평택캠퍼스 세계 최대 160만평규모(약289㎡)<br />최첨단 반도체 산업의 최중심<br />" },
+	{ img: section2Image1, titleText: "확정된 개발호재로<br />청주을 더 새롭게 살수록 높아지는 미래가치", contentText: "삼성전자 청주캠퍼스 세계 최대 160만평규모(약289㎡)<br />최첨단 반도체 산업의 최중심<br />" },
 	{ img: section2Image2, titleText: "도보5분으로<br />의세권을 누리릴 수 있는 프리미엄", contentText: "아주대 첨단의료AI복합타운<br />AI활용 첨단의료시설로<br /> 500병상 규모로 2030년 개원 예정" },
 	{ img: section2Image3, titleText: "수도권 시내·외를 더 빠르게<br />광역으로 통하는 특급 교통", contentText: "지제역 복한환승센터,송탄IC<br />1호선, SRT (현재운행중), KTX, GTX-A/C 확정<br /> 수도권 내 유일 펜타역세권 프리미엄" },
-	{ img: section2Image4, titleText: "학교, 쇼핑,병원, 문화를 더 가깝게 한걸음에<br />모두 갖춘 중심생활", contentText: "브레인시티내 초·중·고 모두 개교예정 · 카이스트 평택 캠퍼스 2027년 개교예정<br />이마트, 코스트코 , CGV 등 편의시설 인접" },
-	{ img: section2Image5, titleText: "브레인시티내 최초이자<br />마지막 1군브랜드 ", contentText: "푸르지오 프리미엄" },
+	{ img: section2Image4, titleText: "학교, 쇼핑,병원, 문화를 더 가깝게 한걸음에<br />모두 갖춘 중심생활", contentText: "브레인시티내 초·중·고 모두 개교예정 · 카이스트 청주 캠퍼스 2027년 개교예정<br />이마트, 코스트코 , CGV 등 편의시설 인접" },
+	{ img: section2Image5, titleText: "브레인시티내 최초이자<br />마지막 1군브랜드 ", contentText: "현대건설 프리미엄" },
 	{ img: section2Image6, titleText: "브레인시티 최대 중심상업지구<br />도보 3분권내 초근접<br /> 마지막 브랜드단지  ", contentText: " 브레인시티 대장입지 <br />푸르지오 프리미엄에 더한 슬세권 프리미엄" },
 ]
 
@@ -75,14 +75,14 @@ const LocationEnvironment1 = () => {
 		<title>청주 테크노 레이원시티 - 입지환경</title>
 		<meta
 		  name="description"
-		  content="청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+		  content="청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청주의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											"
 		/>
 		<meta
 		  name="keywords"
 		  content="청주 테크노 레이원시티, 청주 레이원시티"
 		/>
-		<link rel="canonical" href="https://www.itake.co.kr/LocationEnvironment/intro" />
+		<link rel="canonical" href="https://eliasart.kr/LocationEnvironment/intro" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
@@ -91,14 +91,14 @@ const LocationEnvironment1 = () => {
 		/>
 		<meta
 		  property="og:description"
-		  content="청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+		  content="청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청주의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											"
 		/>
 		<meta
 		  property="og:image"
-		  content="https://www.itake.co.kr/Main1.png"
+		  content="https://eliasart.kr/Main1.png"
 		/>
-		<meta property="og:url" content="https://www.itake.co.kr/LocationEnvironment/intro" />
+		<meta property="og:url" content="https://eliasart.kr/LocationEnvironment/intro" />
 		<meta property="og:site_name" content="청주 테크노 레이원시티" />
 
 		{/* Twitter 카드 설정 */}
@@ -109,14 +109,14 @@ const LocationEnvironment1 = () => {
 		/>
 		<meta
 		  name="twitter:description"
-		  content="청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+		  content="청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청주의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											"
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://www.itake.co.kr/Main1.png"
+		  content="https://eliasart.kr/Main1.png"
 		/>
-		<meta name="twitter:url" content="https://www.itake.co.kr/LocationEnvironment/intro" />
+		<meta name="twitter:url" content="https://eliasart.kr/LocationEnvironment/intro" />
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
 		<script type="application/ld+json">
@@ -125,10 +125,10 @@ const LocationEnvironment1 = () => {
 									"@context": "https://schema.org",
 									"@type": "WebPage",
 									"name": "청주 테크노 레이원시티 - 입지환경",
-									"description": "청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+									"description": "청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청주의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 											
 									",
-									"url": "https://www.itake.co.kr/LocationEnvironment/intro"
+									"url": "https://eliasart.kr/LocationEnvironment/intro"
 								}
 								`}
 		</script>
@@ -142,7 +142,7 @@ const LocationEnvironment1 = () => {
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
 			<h1 className={styles.screenReaderOnly}>청주 테크노 레이원시티 - 입지안내</h1>
-			<p className={styles.screenReaderOnly}>청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+			<p className={styles.screenReaderOnly}>청주 테크노 레이원시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청주의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 			</p>
 
 			<div className={styles.textBox}>
@@ -165,13 +165,13 @@ const LocationEnvironment1 = () => {
 
 			<div className={styles.commonBox}>
 				<div className={styles.notice}>
-					※평택 브레인시티 개발계획 관련내용은 '경기도 고시 제2022-283호' 및 '평택도시공사 브레인시티 토지 이용 계획'을 참고하였습니다
+					※청주 브레인시티 개발계획 관련내용은 '경기도 고시 제2022-283호' 및 '청주도시공사 브레인시티 토지 이용 계획'을 참고하였습니다
 				</div>
 				<div className={styles.notice}>
-					※아주대학교 평택병원 및 카이스트 평택캠퍼스 관련 내용은 '평택시청' 2024년 주요업무계획을 참고하였습니다
+					※아주대학교 청주병원 및 카이스트 청주캠퍼스 관련 내용은 '청주시청' 2024년 주요업무계획을 참고하였습니다
 				</div>
 				<div className={styles.notice}>
-					※평택동부고속화도로 관련 내용은 '평택시 고지 제 2023-407호'를 참고하였습니다
+					※청주동부고속화도로 관련 내용은 '청주시 고지 제 2023-407호'를 참고하였습니다
 				</div>
 				<div className={styles.notice}>
 					※KTX 수원발 관련 내용은 '국토교통부 고시 제'2023-598호'를 참고하였습니다
@@ -180,7 +180,7 @@ const LocationEnvironment1 = () => {
 					※GTX A·C 관련 내용은 '국토굥통부 2024년 1월 25일 보도자료 별첨 교통분야 3대 혁신 전략'을 참고하였습니다
 				</div>
 				<div className={styles.notice}>
-					※신설도로  관련내용은 '경기도 평택시 고시 제2023-316호'를 참고하였습니다
+					※신설도로  관련내용은 '경기도 청주시 고시 제2023-316호'를 참고하였습니다
 				</div>
 				<div className={styles.notice}>
 					※본 홍보물의 위치도는 소비자의 이해를 돕기 위해 제작된 것으로, 실제와 차이가 날 수 있습니다

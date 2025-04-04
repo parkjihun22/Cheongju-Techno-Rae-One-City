@@ -63,7 +63,7 @@ const Brand2 = () => {
           name="keywords"
           content="청주 테크노 레이원시티"
         />
-        <link rel="canonical" href="https://www.itake.co.kr/Brand/video" />
+        <link rel="canonical" href="https://eliasart.kr/Brand/video" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -76,11 +76,11 @@ const Brand2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.itake.co.kr/Main1.png"
+          content="https://eliasart.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.itake.co.kr/Brand/video"
+          content="https://eliasart.kr/Brand/video"
         />
         <meta property="og:site_name" content="청주 테크노 레이원시티" />
 
@@ -96,11 +96,11 @@ const Brand2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.itake.co.kr/Main1.png"
+          content="https://eliasart.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.itake.co.kr/Brand/video"
+          content="https://eliasart.kr/Brand/video"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -112,7 +112,7 @@ const Brand2 = () => {
 				"name": "청주 테크노 레이원시티 - 홍보영상",
 				"description": "청주 테크노 레이원시티의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 평택의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 					",
-				"url": "https://www.itake.co.kr/Brand/video"
+				"url": "https://eliasart.kr/Brand/video"
 			}
 			`}
         </script>

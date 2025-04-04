@@ -65,7 +65,7 @@ const LocationEnvironment1 = () => {
 		  name="keywords"
 		  content="청주 테크노 레이원시티, 청주 레이원시티"
 		/>
-		<link rel="canonical" href="https://www.itake.co.kr/LocationEnvironment/primium" />
+		<link rel="canonical" href="https://eliasart.kr/LocationEnvironment/primium" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
@@ -79,9 +79,9 @@ const LocationEnvironment1 = () => {
 		/>
 		<meta
 		  property="og:image"
-		  content="https://www.itake.co.kr/Main1.png"
+		  content="https://eliasart.kr/Main1.png"
 		/>
-		<meta property="og:url" content="https://www.itake.co.kr/LocationEnvironment/primium" />
+		<meta property="og:url" content="https://eliasart.kr/LocationEnvironment/primium" />
 		<meta property="og:site_name" content="청주 테크노 레이원시티" />
 
 		{/* Twitter 카드 설정 */}
@@ -97,9 +97,9 @@ const LocationEnvironment1 = () => {
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://www.itake.co.kr/Main1.png"
+		  content="https://eliasart.kr/Main1.png"
 		/>
-		<meta name="twitter:url" content="https://www.itake.co.kr/LocationEnvironment/primium" />
+		<meta name="twitter:url" content="https://eliasart.kr/LocationEnvironment/primium" />
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
 		<script type="application/ld+json">
@@ -111,7 +111,7 @@ const LocationEnvironment1 = () => {
 									"description": "청주 테크노 레이원시티만의 차별화된 프리미엄을 만나보세요. 고급스러운 디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해 푸르지오만의 독보적인 가치를 제공합니다.
 											
 									",
-									"url": "https://www.itake.co.kr/LocationEnvironment/primium"
+									"url": "https://eliasart.kr/LocationEnvironment/primium"
 								}
 								`}
 		</script>
