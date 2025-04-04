@@ -71,7 +71,7 @@ const FloorPlan2 = () => {
 
 			<div className={styles.textBox}>
 				<div>청주 테크노 레이원시티의 눈부신 가치 위에</div>
-				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+				<div>현대의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}

@@ -26,7 +26,7 @@ const LocationSection = [
 	{ img: section2Image3, titleText: "수도권 시내·외를 더 빠르게<br />광역으로 통하는 특급 교통", contentText: "지제역 복한환승센터,송탄IC<br />1호선, SRT (현재운행중), KTX, GTX-A/C 확정<br /> 수도권 내 유일 펜타역세권 프리미엄" },
 	{ img: section2Image4, titleText: "학교, 쇼핑,병원, 문화를 더 가깝게 한걸음에<br />모두 갖춘 중심생활", contentText: "브레인시티내 초·중·고 모두 개교예정 · 카이스트 청주 캠퍼스 2027년 개교예정<br />이마트, 코스트코 , CGV 등 편의시설 인접" },
 	{ img: section2Image5, titleText: "브레인시티내 최초이자<br />마지막 1군브랜드 ", contentText: "현대건설 프리미엄" },
-	{ img: section2Image6, titleText: "브레인시티 최대 중심상업지구<br />도보 3분권내 초근접<br /> 마지막 브랜드단지  ", contentText: " 브레인시티 대장입지 <br />푸르지오 프리미엄에 더한 슬세권 프리미엄" },
+	{ img: section2Image6, titleText: "브레인시티 최대 중심상업지구<br />도보 3분권내 초근접<br /> 마지막 브랜드단지  ", contentText: " 브레인시티 대장입지 <br />현대건설 프리미엄에 더한 슬세권 프리미엄" },
 ]
 
 const LocationEnvironment1 = () => {
