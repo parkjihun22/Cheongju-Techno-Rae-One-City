@@ -13,17 +13,14 @@ import tableImage from "../../assets/BusinessGuide/BusinessGuide1/tableImage.jpg
 import { Helmet } from "react-helmet-async";
 
 const projectData = [
-  { label: "사업명", value: "평택 현대 테크노 레이원시티" },
-  { label: "사업위치", value: "평택 브레인시티 일반산업단지 공동3BL" },
+  { label: "사업명", value: "현대 테크노 레이원시티" },
+  { label: "사업위치", value: "청주시 흥덕구 송절1지구 도시개발사업 [현대테크노 레이원시티]" },
   { label: "대지면적", value: "106,050.4985㎡" },
   { label: "건축면적", value: "13,404.3638㎡" },
   { label: "연면적", value: "376,069.7623㎡" },
   { label: "용적률", value: "229.55%" },
   { label: "건축규모", value: "아파트 지하 최저 2층 ~ 지상 최고 35층 16개동" },
-  {
-    label: "세대수",
-    value: "총 1,990세대 / 59㎡A, 59㎡B, 84㎡A, 84㎡B, 119㎡A, 114㎡B",
-  },
+  { label: "세대수",value: "총 1,817세대 / 59㎡,74㎡,84㎡A,84㎡A-1,84㎡B",},
 ];
 
 const BusinessGuide1 = () => {
@@ -186,32 +183,9 @@ const BusinessGuide1 = () => {
 
       <div className={styles.commonBox}>
         <div className={styles.notice}>
-          ※ 상기 이미지에 표현된 외관 디자인은 개략적인 이해를 돕기 위한 것으로,
-          상품특화 및 인허가 협의에 따라 입면 디자인, 경관조명, 출입구, 색채,
-          몰딩, 창호, 난간, 옥상 장식물, 줄눈, 각종 시설물의 디자인 및 형태,
-          마감사양, 조명 설치 위치 등이 실시공시 변경될 수 있습니다.
+          ※ 본 이미지는 소비자의 이해를  돕기 위해 사용되었으며, 세대 구성 등에 대한 최종 결정은 사업승인 이후에 확정됩니다.
         </div>
-        <div className={styles.notice}>
-          ※ 본 단지의 명칭, 동호수 표기, 외부 색채, 외관 디자인, 옥탑 디자인,
-          외부 조명시설, 태양광 발전 설비시설 등은 현장 여건 및 인허가 관청과의
-          심의, 협의 과정에서 향후 변경될 수 있습니다.
-        </div>
-        <div className={styles.notice}>
-          ※ 단지 공용 태양광 패널이 주동 옥상에 설치될 예정이며, 시설을
-          훼손하거나 제거할 수 없습니다. 또한, 본 공사 시 시공 여건에 따라 위치
-          및 규모(크기, 높이, 개소)가 변경될 수 있습니다.
-        </div>
-        <div className={styles.notice}>
-          ※ 문주, 경비실, 외부 엘리베이터실, 계단실 등 외부 시설물의 형태,
-          디자인, 마감재 등은 기능 및 외관 개선을 위해 변경될 수 있습니다.
-        </div>
-        <div className={styles.notice}>
-          ※ 옥상 구조물은 본 공사 시 형태 변경 또는 구조물 지지를 위한 기둥이
-          추가 시공될 수 있습니다.
-        </div>
-        <div className={styles.notice}>
-          ※ 본 공사 시 옥상구조물 상부는 도장 시공을 하지 않습니다.
-        </div>
+      
       </div>
 
       <Footer />

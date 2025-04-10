@@ -23,7 +23,7 @@
     /* 화면 오른쪽 끝으로 배치 */
     top: 0.1vw;
     /* 세로 중앙 배치 (필요에 따라 수정 가능) */
-    width: 8vw;
+    width: 5vw;
     /* 크기 조정 (필요에 따라 변경) */
     z-index: 1;
     /* 텍스트와 겹치지 않도록 설정 */
@@ -1151,6 +1151,7 @@
     background-color: #fff6ea;
 
     .textBox {
+        font-family: 'Pretendard-Regular';
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
@@ -1162,7 +1163,7 @@
 
         .title {
             color: #7e0303;
-            font-family: 'NanumHumanTTFBold';
+
             font-size: 2vw;
             font-weight: 600;
             line-height: 2.5vw;

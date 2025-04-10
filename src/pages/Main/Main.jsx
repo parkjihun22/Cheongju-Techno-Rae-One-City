@@ -45,9 +45,10 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `1817세대 랜드마크 대단지 조성`,
-    text2: `단지 앞 황톳킬과<br />
-            무심천공원`,
+    text1: `1,817세대 랜드마크 대단지 조성`,
+    text2: `인근에서 가장 규모가 큰 <br />
+            지역 내 랜드마크 단지<br />
+            산책하기 좋은 중앙광장`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
   },
@@ -55,8 +56,8 @@ const section3Contents = [
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
     text1: `여유로운 직주근접 단지`,
-    text2: `청주테크노폴리스<br />
-            직주근접 기업도시의 비전`,
+    text2: `SK하이닉스 신큐 팸 (FAM)<br />
+           M15X 인접 및 단지 앞 청주테크노폴리스`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
