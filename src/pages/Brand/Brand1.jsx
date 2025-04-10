@@ -145,8 +145,8 @@ const Brand1 = () => {
             </section>
 
             <section className={`${styles.textBox} ${isTextVisible ? styles.active : ''} `}>
-                <div>생활의 모든 것을 한걸음에</div>
-                <div>현대현대 테크노 레이원시티중심에 서다</div>
+                <div>눈부시도록 아름다운 현대테크노 레이원시티의 럭셔리 라이프</div>
+                <div>여자가 원하던 경이로운 주거문화</div>
             </section>
 
             <img

@@ -117,7 +117,7 @@
     background-color: #FFFFFF; /* 흰색 배경 */
     padding: 10px 0;
     border-radius: 5px; /* 탭 모서리 둥글게 */
-    border: 2px solid #095052; /* 연한 회색 경계선 */
+    border: 2px solid #7e0303; /* 연한 회색 경계선 */
     margin-top: 30px; /* 메뉴바와 탭 메뉴 사이에 간격을 30px 추가 */
 
     @media (max-width: 900px) {
@@ -153,13 +153,13 @@
 /* 기본 탭 버튼 호버 상태 */
 .tabMenu button:hover {
     background-color: #f4f7fb; /* 호버 시 배경색 변화 */
-    color: #095052; /* 호버 시 색상 변경 */
+    color: #7e0303; /* 호버 시 색상 변경 */
 }
 
 /* 활성화된 탭 버튼 */
 .tabMenu button.activeTab {
     font-family: 'SUIT-Regular';
-    background-color: #095052; /* 활성화된 버튼 배경 */
+    background-color: #7e0303; /* 활성화된 버튼 배경 */
     color: #FFFFFF; /* 활성화된 버튼 글자색 */
     
     border-bottom: 3px solid #FFFFFF; /* 활성화된 탭 아래에 두꺼운 밑줄 */
@@ -167,7 +167,7 @@
 
 /* 탭 버튼이 비활성화 상태일 때 (밑줄 없음) */
 .tabMenu button:not(.activeTab) {
-    color: #095052; /* 비활성화된 탭 색상 */
+    color: #7e0303; /* 비활성화된 탭 색상 */
     border-bottom: 2px solid transparent; /* 밑줄 투명 */
 }
 
