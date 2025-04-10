@@ -127,11 +127,11 @@ const Brand1 = () => {
                 <Header isChanged={isScroll} />
             </header>
             <FixIcon />
-            <Bener title="현대" />
+            <Bener title="현대 테크노 레이원시티" />
             <MenuBar contents={menuContents} />
 
             <nav className={styles.screenReaderOnly}>
-                <h2>현대 브랜드소개</h2>
+                <h2>현대 테크노 레이원시티</h2>
                 <ul>
                     {menuContents.map((menu, index) => (
                         <li key={index}><Link to={menu.url}>{menu.title}</Link></li>

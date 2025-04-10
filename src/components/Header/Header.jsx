@@ -29,15 +29,7 @@ const menuArray = [
       { subTitle: "선착순계약 서류안내", subUrl: "/BusinessGuide/documents" },
     ],
   },
-  {
-    title: "청약안내",
-    subMenu: [
-      { subTitle: "인터넷청약", subUrl: "/SalesInfo/guide" },
-      { subTitle: "체크포인트", subUrl: "/SalesInfo/SubscriptionGuide" },
-      { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
-      { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
-    ],
-  },
+
   {
     title: "입지환경",
     subMenu: [
@@ -67,9 +59,9 @@ const menuArray = [
   {
     title: "인테리어",
     subMenu: [
-      { subTitle: "84A", subUrl: "/Interior/59A" },
-      { subTitle: "119A", subUrl: "/Interior/84A" },
-      { subTitle: "119B", subUrl: "/Interior/84B" },
+      { subTitle: "59A", subUrl: "/Interior/59A" },
+      { subTitle: "84A", subUrl: "/Interior/84A" },
+      { subTitle: "84B", subUrl: "/Interior/84B" },
     ],
   },
 ];
