@@ -63,7 +63,7 @@ const BusinessGuide2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>청주 테크노 레이원시티 - 분양일정</title>
+        <title>현대 테크노 레이원시티 - 분양일정</title>
         <meta
           name="description"
           content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
@@ -71,12 +71,12 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="keywords"
-          content="청주 테크노 레이원시티, 청주 레이원시티"
+          content="현대 테크노 레이원시티, 청주 레이원시티"
         />
         <link rel="canonical" href="https://eliasart.kr/BusinessGuide/plan" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="청주 테크노 레이원시티 - 분양일정" />
+        <meta property="og:title" content="현대 테크노 레이원시티 - 분양일정" />
         <meta
           property="og:description"
           content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
@@ -87,11 +87,11 @@ const BusinessGuide2 = () => {
           content="https://eliasart.kr/Main1.png"
         />
         <meta property="og:url" content="https://eliasart.kr/BusinessGuide/plan" />
-        <meta property="og:site_name" content="청주 테크노 레이원시티" />
+        <meta property="og:site_name" content="현대 테크노 레이원시티" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="청주 테크노 레이원시티 - 분양일정" />
+        <meta name="twitter:title" content="현대 테크노 레이원시티 - 분양일정" />
         <meta
           name="twitter:description"
           content="첨단 단지 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
@@ -109,7 +109,7 @@ const BusinessGuide2 = () => {
 					{
 						"@context": "https://schema.org",
 						"@type": "WebPage",
-						"name": "청주 테크노 레이원시티 - 분양일정",
+						"name": "현대 테크노 레이원시티 - 분양일정",
 						"description": "첨단 단지 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약, 서류 접수 및 분양 일정 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 			
 						",
@@ -129,7 +129,7 @@ const BusinessGuide2 = () => {
       <MenuBar contents={menuContents} />
 
       <nav className={styles.screenReaderOnly}>
-        <h2>청주 테크노 레이원시티 분양일정</h2>
+        <h2>현대 테크노 레이원시티 분양일정</h2>
         <ul>
           {menuContents.map((menu, index) => (
             <li key={index}>
@@ -140,9 +140,9 @@ const BusinessGuide2 = () => {
       </nav>
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <section className={styles.screenReaderOnly}>
-        <h1>분양일정 |청주 테크노 레이원시티</h1>
+        <h1>분양일정 |현대 테크노 레이원시티</h1>
         <p>
-         청주 테크노 레이원시티의 사업 개요 및 개발 계획을 확인하세요. 혁신적인
+         현대 테크노 레이원시티의 사업 개요 및 개발 계획을 확인하세요. 혁신적인
           단지 설계, 편리한 인프라, 입주자 맞춤형 편의시설을 통해 최적의 주거
           환경을 제공합니다.
         </p>
@@ -159,7 +159,7 @@ const BusinessGuide2 = () => {
       <img
         className={`${styles.image4} ${isImageVisible ? styles.visible : ""}`}
         src={page1}
-        alt="청주 테크노 레이원시티 분양일정안내-image1"
+        alt="현대 테크노 레이원시티 분양일정안내-image1"
       />
 
       <Footer />

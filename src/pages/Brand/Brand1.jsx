@@ -59,25 +59,25 @@ const Brand1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>청주 테크노 레이원시티 - 브랜드소개</title>
+        <title>현대 테크노 레이원시티 - 브랜드소개</title>
         <meta
           name="description"
-          content="현대는 미래지향적인 주거 문화를 선도하며청주 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
+          content="현대는 미래지향적인 주거 문화를 선도하며현대 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
         />
         <meta
           name="keywords"
-          content="청주 테크노 레이원시티, 레이원시티"
+          content="현대 테크노 레이원시티, 레이원시티"
         />
         <link rel="canonical" href="https://eliasart.kr/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="청주 테크노 레이원시티 - 브랜드소개"
+          content="현대 테크노 레이원시티 - 브랜드소개"
         />
         <meta
           property="og:description"
-          content="현대는 미래지향적인 주거 문화를 선도하며청주 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
+          content="현대는 미래지향적인 주거 문화를 선도하며현대 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
         />
         <meta
           property="og:image"
@@ -87,17 +87,17 @@ const Brand1 = () => {
           property="og:url"
           content="https://eliasart.kr/Brand/intro"
         />
-        <meta property="og:site_name" content="청주 테크노 레이원시티" />
+        <meta property="og:site_name" content="현대 테크노 레이원시티" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="청주 테크노 레이원시티 - 브랜드소개"
+          content="현대 테크노 레이원시티 - 브랜드소개"
         />
         <meta
           name="twitter:description"
-          content="현대는 미래지향적인 주거 문화를 선도하며청주 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
+          content="현대는 미래지향적인 주거 문화를 선도하며현대 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다."
         />
         <meta
           name="twitter:image"
@@ -114,8 +114,8 @@ const Brand1 = () => {
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "청주 테크노 레이원시티 - 브랜드소개",
-                "description": "현대는 미래지향적인 주거 문화를 선도하며청주 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다.
+                "name": "현대 테크노 레이원시티 - 브랜드소개",
+                "description": "현대는 미래지향적인 주거 문화를 선도하며현대 테크노 레이원시티에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다.
                     ",
                 "url": "https://eliasart.kr/Brand/intro"
             }
@@ -140,20 +140,20 @@ const Brand1 = () => {
             </nav>
 
             <section className={styles.screenReaderOnly}>
-                <h1>청주 테크노 레이원시티 브랜드소개</h1>
+                <h1>현대 테크노 레이원시티 브랜드소개</h1>
                 <p>현대는 신뢰와 품질을 최우선으로 여기는 브랜드입니다.</p>
             </section>
 
             <section className={`${styles.textBox} ${isTextVisible ? styles.active : ''} `}>
                 <div>생활의 모든 것을 한걸음에</div>
-                <div>현대청주 테크노 레이원시티중심에 서다</div>
+                <div>현대현대 테크노 레이원시티중심에 서다</div>
             </section>
 
             <img
                 className={`${styles.image} ${isImageVisible ? styles.visible : ''}`}
                 src={page1}
                 srcSet={`${page1} 1x, ${page1.replace('.jpg', '@2x.jpg')} 2x, ${page1.replace('.jpg', '@3x.jpg')} 3x`}
-                alt="청주 테크노 레이원시티 브랜드 이미지"
+                alt="현대 테크노 레이원시티 브랜드 이미지"
                 loading="lazy"
                 width="800"
                 height="600"

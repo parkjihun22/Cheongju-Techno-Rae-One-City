@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>청주 테크노 레이원시티 - 계약서류안내</title>
+        <title>현대 테크노 레이원시티 - 계약서류안내</title>
         <meta
           name="description"
           content="첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
@@ -80,12 +80,12 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="keywords"
-          content="청주 테크노 레이원시티, 청주 레이원시티"
+          content="현대 테크노 레이원시티, 청주 레이원시티"
         />
         <link rel="canonical" href="https://eliasart.kr/BusinessGuide/documents" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="청주 테크노 레이원시티 - 계약서류안내" />
+        <meta property="og:title" content="현대 테크노 레이원시티 - 계약서류안내" />
         <meta
           property="og:description"
           content="첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
@@ -96,11 +96,11 @@ const BusinessGuide2 = () => {
           content="https://eliasart.kr/Main1.png"
         />
         <meta property="og:url" content="https://eliasart.kr/BusinessGuide/documents" />
-        <meta property="og:site_name" content="청주 테크노 레이원시티" />
+        <meta property="og:site_name" content="현대 테크노 레이원시티" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="청주 테크노 레이원시티 - 계약서류안내" />
+        <meta name="twitter:title" content="현대 테크노 레이원시티 - 계약서류안내" />
         <meta
           name="twitter:description"
           content="첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
@@ -118,7 +118,7 @@ const BusinessGuide2 = () => {
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
-				"name": "청주 테크노 레이원시티 - 계약서류안내",
+				"name": "현대 테크노 레이원시티 - 계약서류안내",
 				"description": "첨단 단지 힐스테이트의 설계와 다양한 입주 혜택이 돋보이는 힐스테이트의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 						
 				",
@@ -134,7 +134,7 @@ const BusinessGuide2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-      청주 테크노 레이원시티 - 계약서류안내
+      현대 테크노 레이원시티 - 계약서류안내
       </h1>
       <p className={styles.screenReaderOnly}>
         계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해
@@ -144,7 +144,7 @@ const BusinessGuide2 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>청주 테크노 레이원시티의 눈부신 가치 위에</div>
+        <div>현대 테크노 레이원시티의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -152,7 +152,7 @@ const BusinessGuide2 = () => {
       <img
         className={`${styles.image4} ${isImageVisible ? styles.visible : ""}`}
         src={page1}
-        alt="청주 테크노 레이원시티 계약서류안내-image1"
+        alt="현대 테크노 레이원시티 계약서류안내-image1"
       />
 
       <Footer />

@@ -59,27 +59,27 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>청주 테크노 레이원시티 - 인터넷청약</title>
+        <title>현대 테크노 레이원시티 - 인터넷청약</title>
         <meta
           name="description"
-          content="청주 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청주 테크노 레이원시티의 기회를 놓치지 마세요.
+          content="현대 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 현대 테크노 레이원시티의 기회를 놓치지 마세요.
 
                                             "
         />
         <meta
           name="keywords"
-          content="청주 테크노 레이원시티 모델하우스, 청주 테크노 레이원시티"
+          content="현대 테크노 레이원시티 모델하우스, 현대 테크노 레이원시티"
         />
         <link rel="canonical" href="https://eliasart.kr/SalesInfo/guide" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="청주 테크노 레이원시티 - 인터넷청약"
+          content="현대 테크노 레이원시티 - 인터넷청약"
         />
         <meta
           property="og:description"
-          content="청주 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청주 테크노 레이원시티의 기회를 놓치지 마세요.
+          content="현대 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 현대 테크노 레이원시티의 기회를 놓치지 마세요.
 
                                             "
         />
@@ -88,17 +88,17 @@ const ComplexGuide1 = () => {
           content="https://eliasart.kr/Main1.png"
         />
         <meta property="og:url" content="https://eliasart.kr/SalesInfo/guide" />
-        <meta property="og:site_name" content="청주 테크노 레이원시티" />
+        <meta property="og:site_name" content="현대 테크노 레이원시티" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="청주 테크노 레이원시티 - 인터넷청약"
+          content="현대 테크노 레이원시티 - 인터넷청약"
         />
         <meta
           name="twitter:description"
-          content="청주 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청주 테크노 레이원시티의 기회를 놓치지 마세요.
+          content="현대 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 현대 테크노 레이원시티의 기회를 놓치지 마세요.
 
                                             "
         />
@@ -114,8 +114,8 @@ const ComplexGuide1 = () => {
                                 {
                                     "@context": "https://schema.org",
                                     "@type": "WebPage",
-                                    "name": "청주 테크노 레이원시티 - 인터넷청약",
-                                    "description": "청주 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청주 테크노 레이원시티의 기회를 놓치지 마세요.
+                                    "name": "현대 테크노 레이원시티 - 인터넷청약",
+                                    "description": "현대 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 현대 테크노 레이원시티의 기회를 놓치지 마세요.
 
                                             
                                     ",
@@ -134,20 +134,20 @@ const ComplexGuide1 = () => {
 
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-      <h1 className={styles.screenReaderOnly}>청주 테크노 레이원시티 - 인터넷청약</h1>
-			<p className={styles.screenReaderOnly}>청주 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청주 테크노 레이원시티의 기회를 놓치지 마세요.
+      <h1 className={styles.screenReaderOnly}>현대 테크노 레이원시티 - 인터넷청약</h1>
+			<p className={styles.screenReaderOnly}>현대 테크노 레이원시티의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 현대 테크노 레이원시티의 기회를 놓치지 마세요.
       </p>
 
       <div className={styles.textBox}>
         <div>인터넷 청약하는 방법을 확인하세요</div>
-        <div>소수만 누리는 프리미엄 청주 테크노 레이원시티</div>
+        <div>소수만 누리는 프리미엄 현대 테크노 레이원시티</div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="청주 테크노 레이원시티청약안내-image1"
+        alt="현대 테크노 레이원시티청약안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />
 

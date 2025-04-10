@@ -67,22 +67,22 @@ const FloorPlan1 = () => {
 			<meta name="robots" content="index, follow" />
 	
 			{/* SEO 최적화를 위한 메타 태그 */}
-			<title>청주 테크노 레이원시티 - 평면안내</title>
+			<title>현대 테크노 레이원시티 - 평면안내</title>
 			<meta
 			  name="description"
-			  content="청주 테크노 레이원시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다.
+			  content="현대 테크노 레이원시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다.
 												"
 			/>
 			<meta
 			  name="keywords"
-			  content="청주 테크노 레이원시티, 청주 레이원시티"
+			  content="현대 테크노 레이원시티, 청주 레이원시티"
 			/>
 			<link rel="canonical" href="https://eliasart.kr/FloorPlan/59A" />
 	
 			{/* Open Graph - 소셜 미디어 공유 최적화 */}
 			<meta
 			  property="og:title"
-			  content="청주 테크노 레이원시티 - 평면안내"
+			  content="현대 테크노 레이원시티 - 평면안내"
 			/>
 			<meta
 			  property="og:description"
@@ -94,13 +94,13 @@ const FloorPlan1 = () => {
 			  content="https://eliasart.kr/Main1.png"
 			/>
 			<meta property="og:url" content="https://eliasart.kr/FloorPlan/59A" />
-			<meta property="og:site_name" content="청주 테크노 레이원시티" />
+			<meta property="og:site_name" content="현대 테크노 레이원시티" />
 	
 			{/* Twitter 카드 설정 */}
 			<meta name="twitter:card" content="summary_large_image" />
 			<meta
 			  name="twitter:title"
-			  content="청주 테크노 레이원시티 - 평면안내"
+			  content="현대 테크노 레이원시티 - 평면안내"
 			/>
 			<meta
 			  name="twitter:description"
@@ -119,7 +119,7 @@ const FloorPlan1 = () => {
 									{
 										"@context": "https://schema.org",
 										"@type": "WebPage",
-										"name": "청주 테크노 레이원시티 - 평면안내",
+										"name": "현대 테크노 레이원시티 - 평면안내",
 										"description": "첨단 단지 현대건설의 설계와 다양한 입주 혜택이 돋보이는 현대건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 												
 										",
@@ -136,8 +136,8 @@ const FloorPlan1 = () => {
 
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>청주 테크노 레이원시티 - 평면안내</h1>
-			<p className={styles.screenReaderOnly}>59타입의평면 안내 페이지는 청주 테크노 레이원시티의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.
+            <h1 className={styles.screenReaderOnly}>현대 테크노 레이원시티 - 평면안내</h1>
+			<p className={styles.screenReaderOnly}>59타입의평면 안내 페이지는 현대 테크노 레이원시티의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.
 			</p>
 
 			<div className={styles.textBox}>
@@ -149,7 +149,7 @@ const FloorPlan1 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청주 테크노 레이원시티 59타입의평면안내-image1"
+				alt="현대 테크노 레이원시티 59타입의평면안내-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

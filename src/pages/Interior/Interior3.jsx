@@ -60,7 +60,7 @@ const Interior3 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>청주 테크노 레이원시티가 평택의 눈부신 가치 위에</div>
+				<div>현대 테크노 레이원시티가 평택의 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -68,7 +68,7 @@ const Interior3 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청주 테크노 레이원시티 119타입 인테리어안내 image"
+				alt="현대 테크노 레이원시티 119타입 인테리어안내 image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

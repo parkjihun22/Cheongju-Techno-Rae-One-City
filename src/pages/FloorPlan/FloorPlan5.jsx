@@ -71,7 +71,7 @@ const FloorPlan5 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청주 테크노 레이원시티 119A 평면image"
+				alt="현대 테크노 레이원시티 119A 평면image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

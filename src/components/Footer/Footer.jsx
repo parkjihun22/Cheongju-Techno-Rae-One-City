@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "청주 테크노 레이원시티", url: "https://eliasart.kr/" },
+  { name: "현대 테크노 레이원시티", url: "https://eliasart.kr/" },
 
 ];
 
@@ -50,7 +50,7 @@ const Footer = () => {
           {/* 상단 로고 */}
           <div className={styles.mobileLogo}>
             <h2>현대건설</h2>
-            <p>청주 테크노 레이원시티</p>
+            <p>현대 테크노 레이원시티</p>
           </div>
 
           {/* 안내문구 */}
@@ -109,7 +109,7 @@ const Footer = () => {
           {/* COPYRIGHT */}
           <div className={styles.mobileCopyright}>
             <p>
-              COPYRIGHTⓒ 2025 청주 테크노 레이원시티 INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2025 현대 테크노 레이원시티 INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </div>
@@ -117,7 +117,7 @@ const Footer = () => {
         <>
           <div className={styles.desktopWrapper}>
             <div className={styles.leftSide}>
-              <h2>현대건설 청주 테크노 레이원시티</h2>
+              <h2>현대건설 현대 테크노 레이원시티</h2>
               <p>
                 본 웹사이트에서 사용된 사진 및 이미지는 소비자의 이해를 돕기 위한
                 것으로 실제와 다를 수 있습니다.
@@ -164,7 +164,7 @@ const Footer = () => {
           </div>
           <div className={styles.desktopCopyright}>
             <p>
-              COPYRIGHTⓒ 2025 청주 테크노 레이원시티 INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2025 현대 테크노 레이원시티 INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </>
