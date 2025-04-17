@@ -191,11 +191,11 @@ const Main = () => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
-                마지막 1군 브랜드{" "}
+                압도적인 1군 브랜드{" "}
                 <span className={styles.greyText}>브랜드 프리미엄</span> |
                 부담을 덜어주는{" "}
-                <span className={styles.greyText}>분양가상한제</span> | 계약금
-                5%로 내집마련기회{" "}
+                <span className={styles.greyText}>저렴한 확정분양가</span> | 10년살고고
+                결정하는 기회{" "}
                 <span className={styles.greyText}>착한조건</span>
               </div>
               <div className={styles.mainImageTitleBox}>
@@ -381,7 +381,7 @@ const Main = () => {
   {/* 입력 폼 */}
   <form
     className={styles.pcVisitForm}
-    action="https://formspree.io/f/xnnjvebv"
+    action="https://formspree.io/f/xovekpjn"
     method="POST"
   >
     <label htmlFor="name">
@@ -628,7 +628,7 @@ const Main = () => {
 
         {/* 모바일 방문예약 섹션 */}
 <div className={styles.mobileVisitContainer}>
-  <h2>청주 브레인시티 수자인</h2>
+  <h2>현대 테크노 레이원시티</h2>
   <p className={styles.mobileSubTitle}>방문예약</p>
   <p className={styles.mobileInfoText}>
     방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -637,7 +637,7 @@ const Main = () => {
 
   <form
     className={styles.mobileVisitForm}
-    action="https://formspree.io/f/xnnjvebv"
+    action="https://formspree.io/f/xovekpjn"
     method="POST"
   >
     <label htmlFor="name">
