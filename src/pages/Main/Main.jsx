@@ -160,7 +160,7 @@ const Main = () => {
         // PC 버전
         <>
           <Header isChanged={isScroll} />
-          {isOpenPopup1 && (
+          {/* {isOpenPopup1 && (
             <Popup
               onClosed={() => setIsOpenPopup1(false)}
               popupImage={popupPage1}
@@ -180,7 +180,7 @@ const Main = () => {
               popupImage={popupPage3}
               numbering={3}
             />
-          )}
+          )} */}
 
           <div className={styles.imageContainer}>
             <img
@@ -194,7 +194,7 @@ const Main = () => {
                 압도적인 1군 브랜드{" "}
                 <span className={styles.greyText}>브랜드 프리미엄</span> |
                 부담을 덜어주는{" "}
-                <span className={styles.greyText}>저렴한 확정분양가</span> | 10년살고고
+                <span className={styles.greyText}>저렴한 확정분양가</span> | 10년살고
                 결정하는 기회{" "}
                 <span className={styles.greyText}>착한조건</span>
               </div>
@@ -230,10 +230,10 @@ const Main = () => {
                   " 방문 예약 고객 전원 신세계상품권 100% 증정 "
                 </div>
                 <div className={styles.text3}>
-                  - 브레인시티 중심상업지구 매우인접 <br />
-                  - 첨단 아주대학교 종합병원 도보 5분 <br />- 청주 지제역 1호선,
-                  STR, KTX, GTX-A · C 확정으로 펜타역세권 <br />- 모두를 누리는
-                  현대 테크노 레이원시티
+                  - 쉐프가 직접만드는 입주민 조식,중식 서비스제공 <br />
+                  - 수준 높은 국제교육 시설 단지내 YBM 영어마을 <br />
+                  - 취득세 종부세, 건보료, 주택수 미포함 등 다양한 세제혜택 <br />
+                  - 모두를 누리는 현대 테크노 레이원시티
                 </div>
                 <div className={styles.text4}>
                   <a
@@ -460,7 +460,7 @@ const Main = () => {
       ) : (
         // 모바일 버전
         <div className={styles.mobileMain}>
-          {isOpenPopup1 && (
+          {/* {isOpenPopup1 && (
             <MobilePopup
               onClosed={() => setIsOpenPopup1(!isOpenPopup1)}
               popupImage={mobilePopupPage1}
@@ -487,7 +487,7 @@ const Main = () => {
               popupImage={mobilePopupPage3}
               numbering={4}
             />
-          )}
+          )} */}
 
           <Header isChanged={isScroll} />
 
@@ -500,15 +500,15 @@ const Main = () => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
-                분양가 상한제 적용
-                <br />
-                <span className={styles.greyText}>처음이자 마지막</span>
-                <br />
-                1군브랜드
+                압도적인 1군브랜드
                 <br />
                 <span className={styles.greyText}>브랜드 프리미엄</span>
                 <br />
-                계약금 5%로 내집마련기회
+                부담을 덜어주는
+                <br />
+                <span className={styles.greyText}>저렴한 확정분양가</span>
+                <br />
+                10년 살아보고 결정하는
                 <br />
                 <span className={styles.greyText}>착한조건</span>
               </div>
@@ -524,13 +524,10 @@ const Main = () => {
               "방문예약을 하시면 신세계 상품권 100% 증정 "
             </div>
             <div className={styles.text3}>
-              - 브레인시티 중심상업지구 가장인접한 입지
-              <br />
-              - 첨단 아주대학교 AI종합병원, 의료R＆D센터 도보 5분
-              <br />
-              - 청주 지제역 KTX, GTX-A · C 확정 삼성전자 청주캠퍼스, 초등학교,
-              수변공원
-              <br />- 모두를 누리는 반도체밸리 주거 타운의 완성
+            - 쉐프가 직접만드는 입주민 조식,중식 서비스제공 <br />
+                  - 수준 높은 국제교육 시설 단지내 YBM 영어마을 <br />
+                  - 취득세 종부세, 건보료, 주택수 미포함 등 다양한 세제혜택 <br />
+                  - 모두를 누리는 현대 테크노 레이원시티
             </div>
             <div className={styles.text4}>
               {/* 외부 링크 대신 방문예약 클릭 시 팝업 호출 */}
@@ -550,7 +547,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                청주 브레인시티의 중심으로 사는
+                청주의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>

@@ -20,7 +20,7 @@ const FloorPlan6 = () => {
 		{ title: "84B", url: "/FloorPlan/84B" },
 		{ title: "119A", url: "/FloorPlan/114A" },
 		{ title: "119B", url: "/FloorPlan/114B" },
-    	{ title: "세대안내영상", url: "/FloorPlan/videos" }  // 세대안내영상 링크s
+    	// { title: "세대안내영상", url: "/FloorPlan/videos" }  // 세대안내영상 링크s
 	];
 
 	const [isScroll, setIsScroll] = useState(false);

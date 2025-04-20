@@ -47,7 +47,7 @@ const contents = (text, isLoaded) => {
                     지친 하루를 마치고 가장 나에 가까운 본연의 모습으로 돌아와 누리는 프리미엄입니다.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    브레인시티의 중심
+                    청주 배후수요의 중심
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     NO.1 브랜드 현대 테크노 레이원시티와 함께합니다.
@@ -58,16 +58,16 @@ const contents = (text, isLoaded) => {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    아주대 종합병원이 선택한 새도시!
+                   현대가 선택한 새도시!
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    평택삼성전자캠퍼스 · 지제역 펜타역세권 프리미엄
+                    20조원이상 투자되는 SK하이닉스 신규 팸(FAB) · M15X 인접
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     가장 높은 브랜드의 첫 시작
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                현대 테크노 레이원시티
+                    현대 테크노 레이원시티
                 </div>
             </>
         );
@@ -78,7 +78,7 @@ const contents = (text, isLoaded) => {
                     수준 높은 생활, 첨단신도시내 착한 브랜드 아파트
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    기대하던 모든 프리미엄이현대 테크노 레이원시티에서 펼쳐집니다
+                    기대하던 모든 프리미엄이 현대 테크노 레이원시티에서 펼쳐집니다
                 </div>
             </>
         );
@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                     편리한 생활을 위한 최적의 공간설계
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    소수에게만 허락된 현대 테크노 레이원시티, 처음이자 마지막으로 브레인시티에 찾아옵니다
+                    소수에게만 허락된 현대 테크노 레이원시티, 청주에 찾아옵니다
                 </div>
             </>
         );

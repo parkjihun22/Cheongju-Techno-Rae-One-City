@@ -23,15 +23,15 @@ import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 const LocationSection = [
 	{ img: section2Image1, titleText: "확정된 개발호재로<br />청주을 더 새롭게 살수록 높아지는 미래가치", contentText: "SK하이닉스 신규팸 계획 20조원 투자예정<br />최첨단 반도체 산업의 최중심<br />" },
 	{ img: section2Image2, titleText: "도보5분으로<br />의세권을 누리릴 수 있는 프리미엄", contentText: "아주대 첨단의료AI복합타운<br />AI활용 첨단의료시설로<br /> 500병상 규모로 2030년 개원 예정" },
-	{ img: section2Image3, titleText: "수도권 시내·외를 더 빠르게<br />광역으로 통하는 특급 교통", contentText: "오송역 KTX, 청주공항 등 <br />1호선, SRT (현재운행중), KTX, GTX-A/C 확정<br /> 수도권 내 유일 펜타역세권 프리미엄" },
+	{ img: section2Image3, titleText: "수도권 시내·외를 더 빠르게<br />광역으로 통하는 특급 교통", contentText: "단지 앞 청주2순환로, 중부고속도로 서청주IC, <br />KTX 오송역, 청주공항 등 <br /> 다양한 쾌속교통 루트가 경유 하는 교통요지" },
 	{ img: section2Image4, titleText: "학교, 쇼핑,병원, 문화를 더 가깝게 한걸음에<br />모두 갖춘 중심생활", contentText: "봉덕초, 송절중, 봉명고교 등 도보5분 학세권 형성<br />파비뇽 아울렛 등 편의시설 인접" },
-	{ img: section2Image5, titleText: "브레인시티내 최초이자<br />마지막 1군브랜드 ", contentText: "현대건설 프리미엄" },
-	{ img: section2Image6, titleText: "브레인시티 최대 중심상업지구<br />도보 3분권내 초근접<br /> 마지막 브랜드단지  ", contentText: " 브레인시티 대장입지 <br />현대건설 프리미엄에 더한 슬세권 프리미엄" },
+	{ img: section2Image5, titleText: "압도적인 현대라는 1군브랜드 프리미엄 ", contentText: "현대건설 프리미엄" },
+	{ img: section2Image6, titleText: "모든 인프라가 모여있는 중심상업지구<br />도보 3분권내 초근접", contentText: " 단지 내 YBM 영어교육환경 및 조식,중식서비스제공 <br />현대건설 프리미엄에 품격있는 삶을 살 수 있는 기회" },
 ]
 
 const LocationEnvironment1 = () => {
 	const menuContents = [
-		{ title: "입지 안내영상", url: "/FloorPlan/videos" },
+		// { title: "입지 안내영상", url: "/FloorPlan/videos" },
 		{ title: "입지안내", url: "/LocationEnvironment/intro" }, 
 		{ title: "프리미엄", url: "/LocationEnvironment/primium" },
 					];

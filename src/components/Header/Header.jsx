@@ -25,15 +25,15 @@ const menuArray = [
     title: "사업개요",
     subMenu: [
       { subTitle: "사업안내", subUrl: "/BusinessGuide/intro" },
-      { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
-      { subTitle: "선착순계약 서류안내", subUrl: "/BusinessGuide/documents" },
+      // { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
+      // { subTitle: "선착순계약 서류안내", subUrl: "/BusinessGuide/documents" },
     ],
   },
 
   {
     title: "입지환경",
     subMenu: [
-      { subTitle: "입지안내영상", subUrl: "/FloorPlan/videos" },
+      // { subTitle: "입지안내영상", subUrl: "/FloorPlan/videos" },
       { subTitle: "입지안내", subUrl: "/LocationEnvironment/intro" },
       { subTitle: "프리미엄", subUrl: "/LocationEnvironment/primium" },
     ],
@@ -95,9 +95,9 @@ const Header = () => {
         <div className={styles.mobileHeader}>
           <div onClick={() => setIsMobileMenu(!isMobileMenu)}>
             {!isMobileMenu ? (
-              <AiOutlineMenu className={styles.icon} size={25} color="#095052" />
+              <AiOutlineMenu className={styles.icon} size={25} color="#7e0303" />
             ) : (
-              <IoCloseSharp className={styles.icon} size={25} color="#095052" />
+              <IoCloseSharp className={styles.icon} size={25} color="#7e0303" />
             )}
           </div>
           {isMobileMenu && (
@@ -113,7 +113,7 @@ const Header = () => {
           </Link>
           {/* 모바일에서는 기존 전화 연결 a 태그 유지 */}
           <a href="tel:1533-8848">
-            <IoCall className={styles.icon} size={25} color="#095052" />
+            <IoCall className={styles.icon} size={25} color="#7e0303" />
           </a>
         </div>
         {/* 모바일에서도 팝업을 렌더링 (최상위에서) */}
