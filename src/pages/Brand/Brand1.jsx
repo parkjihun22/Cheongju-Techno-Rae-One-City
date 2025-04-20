@@ -150,14 +150,10 @@ const Brand1 = () => {
             </section>
 
             <img
-                className={`${styles.image} ${isImageVisible ? styles.visible : ''}`}
-                src={page1}
-                srcSet={`${page1} 1x, ${page1.replace('.jpg', '@2x.jpg')} 2x, ${page1.replace('.jpg', '@3x.jpg')} 3x`}
-                alt="현대 테크노 레이원시티 브랜드 이미지"
-                loading="lazy"
-                width="800"
-                height="600"
-            />
+        className={`${styles.image} ${isImageVisible ? styles.visible : ""}`}
+        src={page1}
+        alt="현대테크노 레이원시티 브랜드 안내 이미지"
+      />
 
 
             <Footer />
