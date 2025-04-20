@@ -163,7 +163,7 @@ const LocationEnvironment1 = () => {
 				))}
 			</div>
 
-			<div className={styles.commonBox}>
+			{/* <div className={styles.commonBox}>
 				<div className={styles.notice}>
 					※청주 브레인시티 개발계획 관련내용은 '경기도 고시 제2022-283호' 및 '청주도시공사 브레인시티 토지 이용 계획'을 참고하였습니다
 				</div>
@@ -193,7 +193,7 @@ const LocationEnvironment1 = () => {
 					※상기 이미지와 내용의 각종 시설(학교,도로망 등)은 지구단위계획의 변경, 허가관청 및 국가시책에 따라 변경될 수 있습니다.
 				</div>
 	
-			</div>
+			</div> */}
 
 			<Footer />
 		</div>

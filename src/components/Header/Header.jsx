@@ -56,14 +56,14 @@ const menuArray = [
       { subTitle: "84B", subUrl: "/FloorPlan/114A" },
     ],
   },
-  {
-    title: "인테리어",
-    subMenu: [
-      { subTitle: "59A", subUrl: "/Interior/59A" },
-      { subTitle: "84A", subUrl: "/Interior/84A" },
-      { subTitle: "84B", subUrl: "/Interior/84B" },
-    ],
-  },
+  // {
+  //   title: "인테리어",
+  //   subMenu: [
+  //     { subTitle: "59A", subUrl: "/Interior/59A" },
+  //     { subTitle: "84A", subUrl: "/Interior/84A" },
+  //     { subTitle: "84B", subUrl: "/Interior/84B" },
+  //   ],
+  // },
 ];
 
 const Header = () => {
